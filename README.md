@@ -1,3 +1,4 @@
+maybe airdrop in next month
 # zkSync Developers
 
 
